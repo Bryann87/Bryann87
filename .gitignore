@@ -1,6 +1,4 @@
 venv
-db.sqlite
 .vscode
-media
 __pycache__
 **/__pycache__
